@@ -1,0 +1,9 @@
+# AWS properties
+aws:
+  access-key:
+  secret-key:
+  region:
+  cognito:
+    user-pool-id:
+    app-client-id:
+    app-client-secret:

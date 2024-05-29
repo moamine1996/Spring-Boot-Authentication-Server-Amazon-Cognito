@@ -1,0 +1,14 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.1.0">
+    <servers>
+        <server>
+            <id>nexus.snapshot</id>
+            <username>admin</username>
+            <password>wifi2014</password>
+        </server>
+        <server>
+            <id>nexus.release</id>
+            <username>admin</username>
+            <password>wifi2014</password>
+        </server>
+    </servers>
+</settings>
